@@ -13,8 +13,9 @@
 ![image](https://github.com/dohun-mat/k-ium_Cerebral-aneurysm/assets/81942144/42418828-22cc-4a2b-9322-df2c8360dbc8)
 
 canny 윤곽선 검출(성능 향상 x)
-
 기본 이미지로 진행
+
+이미지에서 local한 부분을 잘 얻기위해서 이미지크기를 720,720으로 설정
 
 # 뇌동맥류 예측 AI  
 ## 1. 3차원 1개의 이미지 8장을 24차원의 이미지 1장으로 압축후 resnet모델 사용
