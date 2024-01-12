@@ -26,5 +26,5 @@ canny 윤곽선 검출(성능 향상 x)
 - val 성능 : 55%
 ## 3. 2d 이미5를 1장씩 z축으로 올려서 3d이미지 1장으로 만든뒤 pointNet모델을 이용해 3D classification 진행 
 - val 성능 : 45%
-## 4. 3,8,224,224의 이미지 전체를 넣은 후 3dResnet모델을 이용해 3D classification을 진행
+## 4. 3,8,720,720의 이미지 전체를 넣은 후 3dResnet모델을 이용해 3D classification을 진행
 - val 성능 : 67%
